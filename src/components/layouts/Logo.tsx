@@ -10,7 +10,7 @@ interface Logo {
 
 const logo: Logo = {
   url: "/",
-  src: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/logos/shadcnblockscom-icon.svg",
+  src: "/logo.png",
   alt: "logo",
   title: "RENT-VEHICLE",
 };
